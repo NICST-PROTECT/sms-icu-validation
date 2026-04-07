@@ -12,7 +12,7 @@ characteristic curve (AUROC) &gt;0.7.
 - Acceptable overall fit will be assessed by calculating Brier scores.
 
 ## File descriptions
-resources/SOP for SMS-ICU score validation.pdf -> Contains all instructions and steps to be followed for data mapping and code execution
+resources/SOP for SMS-ICU score validation.pdf -> Contains all instructions and steps to be followed for data mapping and code execution  
 resources/SMS ICU_Data dictionary for mapping.xlsx -> Data dictionary to be used for data mapping  
 resources/functions_needed.R -> Contains all required functions that must be loaded before executing the other code files
 
@@ -29,4 +29,4 @@ DescTools
 glue  
 dplyr  
 readr  
-ems  
+ems
